@@ -1,0 +1,14 @@
+C:\Users\vbatt\source\repos\ShowLocation\ShowLocation\bin\Debug\ShowLocation.dll
+C:\Users\vbatt\source\repos\ShowLocation\ShowLocation\bin\Debug\ShowLocation.pdb
+C:\Users\vbatt\source\repos\ShowLocation\ShowLocation\bin\Debug\0Harmony.dll
+C:\Users\vbatt\source\repos\ShowLocation\ShowLocation\bin\Debug\assembly_utils.dll
+C:\Users\vbatt\source\repos\ShowLocation\ShowLocation\bin\Debug\assembly_valheim.dll
+C:\Users\vbatt\source\repos\ShowLocation\ShowLocation\bin\Debug\BepInEx.dll
+C:\Users\vbatt\source\repos\ShowLocation\ShowLocation\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\vbatt\source\repos\ShowLocation\ShowLocation\bin\Debug\UnityEngine.dll
+C:\Users\vbatt\source\repos\ShowLocation\ShowLocation\bin\Debug\UnityEngine.UI.dll
+C:\Users\vbatt\source\repos\ShowLocation\ShowLocation\obj\Debug\ShowLocation.csprojAssemblyReference.cache
+C:\Users\vbatt\source\repos\ShowLocation\ShowLocation\obj\Debug\ShowLocation.csproj.CoreCompileInputs.cache
+C:\Users\vbatt\source\repos\ShowLocation\ShowLocation\obj\Debug\ShowLocation.csproj.CopyComplete
+C:\Users\vbatt\source\repos\ShowLocation\ShowLocation\obj\Debug\ShowLocation.dll
+C:\Users\vbatt\source\repos\ShowLocation\ShowLocation\obj\Debug\ShowLocation.pdb
